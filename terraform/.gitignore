@@ -1,9 +1,10 @@
-# Ignore everything
-/*
-# Except
-!.gitignore
-!/ads_data
-!*/a/b/c/*
-!terraform/infra/*.tf
-!terraform/infra/terraform.tfvars
+# Local .terraform directories
+**/.terraform/*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Exclude all .tfvars files
+*.tfvars
+*.tfvars.json
 
