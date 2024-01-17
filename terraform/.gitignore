@@ -9,5 +9,5 @@
 *.tfvars.json
 
 # Exclude dependency lock file
-/infra/.terraform.lock.hcl
+.terraform.lock.hcl
 
