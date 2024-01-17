@@ -1,0 +1,478 @@
+[
+    {
+        "campaign_id": "11861306889",
+        "creative_id": "450301502795",
+        "start_date": "2022-06-09T15:55:44Z",
+        "impressions": 67614,
+        "cost": "$201.19",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 25621,
+                    "cost": "$76.24"
+                },
+                "google_ads": {
+                    "impressions": 41993,
+                    "cost": "$124.95"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "11861306889",
+        "creative_id": "458723361065",
+        "start_date": "2022-04-06T18:57:26Z",
+        "impressions": 46303,
+        "cost": "$687.07",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 6908,
+                    "cost": "$102.51"
+                },
+                "google_ads": {
+                    "impressions": 39395,
+                    "cost": "$584.56"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "13456790476",
+        "creative_id": "458723361065",
+        "start_date": "2022-11-18T03:08:46Z",
+        "impressions": 86014,
+        "cost": "$646.95",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 24874,
+                    "cost": "$187.09"
+                },
+                "google_ads": {
+                    "impressions": 61140,
+                    "cost": "$459.86"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "13456790476",
+        "creative_id": "236035536543",
+        "start_date": "2022-11-13T02:39:18Z",
+        "impressions": 17720,
+        "cost": "$199.65",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 4673,
+                    "cost": "$52.65"
+                },
+                "google_ads": {
+                    "impressions": 13047,
+                    "cost": "$147.00"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17678232022",
+        "creative_id": "236035536543",
+        "start_date": "2022-03-22T14:38:26Z",
+        "impressions": 37294,
+        "cost": "$435.76",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 18980,
+                    "cost": "$221.77"
+                },
+                "google_ads": {
+                    "impressions": 18314,
+                    "cost": "$213.99"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17678232022",
+        "creative_id": "650582554531",
+        "start_date": "2022-12-14T09:16:57Z",
+        "impressions": 86668,
+        "cost": "$701.05",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 83938,
+                    "cost": "$678.97"
+                },
+                "google_ads": {
+                    "impressions": 2730,
+                    "cost": "$22.08"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "15686563623",
+        "creative_id": "650582554531",
+        "start_date": "2022-01-31T13:23:24Z",
+        "impressions": 48195,
+        "cost": "$456.78",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 30752,
+                    "cost": "$291.46"
+                },
+                "google_ads": {
+                    "impressions": 17443,
+                    "cost": "$165.32"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "15686563623",
+        "creative_id": "560582554386",
+        "start_date": "2022-05-05T01:59:07Z",
+        "impressions": 69998,
+        "cost": "$738.49",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 36322,
+                    "cost": "$383.21"
+                },
+                "google_ads": {
+                    "impressions": 33676,
+                    "cost": "$355.28"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "12428358869",
+        "creative_id": "560582554386",
+        "start_date": "2022-10-15T23:36:45Z",
+        "impressions": 85174,
+        "cost": "$478.70",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 22526,
+                    "cost": "$126.61"
+                },
+                "google_ads": {
+                    "impressions": 62648,
+                    "cost": "$352.09"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "12428358869",
+        "creative_id": "560582554390",
+        "start_date": "2022-05-17T09:59:32Z",
+        "impressions": 30734,
+        "cost": "$845.48",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 6892,
+                    "cost": "$189.61"
+                },
+                "google_ads": {
+                    "impressions": 23842,
+                    "cost": "$655.87"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "14569358865",
+        "creative_id": "560582554390",
+        "start_date": "2022-04-03T05:43:34Z",
+        "impressions": 86633,
+        "cost": "$273.71",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 58595,
+                    "cost": "$185.13"
+                },
+                "google_ads": {
+                    "impressions": 28038,
+                    "cost": "$88.58"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "14569358865",
+        "creative_id": "250582553392",
+        "start_date": "2022-11-30T18:34:54Z",
+        "impressions": 66564,
+        "cost": "$934.70",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 53533,
+                    "cost": "$751.72"
+                },
+                "google_ads": {
+                    "impressions": 13031,
+                    "cost": "$182.98"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "13543564567",
+        "creative_id": "250582553392",
+        "start_date": "2022-05-02T08:53:48Z",
+        "impressions": 57493,
+        "cost": "$194.92",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 39595,
+                    "cost": "$134.24"
+                },
+                "google_ads": {
+                    "impressions": 17898,
+                    "cost": "$60.68"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "13543564567",
+        "creative_id": "563082553502",
+        "start_date": "2022-05-05T17:48:29Z",
+        "impressions": 60057,
+        "cost": "$603.49",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 42844,
+                    "cost": "$430.53"
+                },
+                "google_ads": {
+                    "impressions": 17213,
+                    "cost": "$172.96"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "11861306889",
+        "creative_id": "563082553502",
+        "start_date": "2022-11-08T08:42:03Z",
+        "impressions": 92531,
+        "cost": "$715.33",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 80427,
+                    "cost": "$621.76"
+                },
+                "google_ads": {
+                    "impressions": 12104,
+                    "cost": "$93.57"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "11861306889",
+        "creative_id": "560582553456",
+        "start_date": "2022-03-20T15:49:53Z",
+        "impressions": 48316,
+        "cost": "$948.99",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 12601,
+                    "cost": "$247.52"
+                },
+                "google_ads": {
+                    "impressions": 35715,
+                    "cost": "$701.47"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17886563568",
+        "creative_id": "560582553456",
+        "start_date": "2022-07-14T03:01:14Z",
+        "impressions": 50121,
+        "cost": "$817.09",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 24873,
+                    "cost": "$405.49"
+                },
+                "google_ads": {
+                    "impressions": 25248,
+                    "cost": "$411.60"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17886563568",
+        "creative_id": "238745735765",
+        "start_date": "2022-01-16T02:12:30Z",
+        "impressions": 28220,
+        "cost": "$359.73",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 12386,
+                    "cost": "$157.90"
+                },
+                "google_ads": {
+                    "impressions": 15834,
+                    "cost": "$201.83"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17886563568",
+        "creative_id": "673425685432",
+        "start_date": "2022-05-30T06:23:02Z",
+        "impressions": 37169,
+        "cost": "$904.52",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 6326,
+                    "cost": "$153.96"
+                },
+                "google_ads": {
+                    "impressions": 30843,
+                    "cost": "$750.56"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "14586353629",
+        "creative_id": "238745735765",
+        "start_date": "2022-04-01T18:44:49Z",
+        "impressions": 13619,
+        "cost": "$916.77",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 10571,
+                    "cost": "$711.62"
+                },
+                "google_ads": {
+                    "impressions": 3048,
+                    "cost": "$205.15"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "13568364567",
+        "creative_id": "450301502795",
+        "start_date": "2022-07-26T20:40:59Z",
+        "impressions": 64841,
+        "cost": "$391.34",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 46402,
+                    "cost": "$280.05"
+                },
+                "google_ads": {
+                    "impressions": 18439,
+                    "cost": "$111.29"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17678232022",
+        "creative_id": "450301502795",
+        "start_date": "2022-08-13T04:07:08Z",
+        "impressions": 28119,
+        "cost": "$209.31",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 2210,
+                    "cost": "$16.45"
+                },
+                "google_ads": {
+                    "impressions": 25909,
+                    "cost": "$192.86"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17678232022",
+        "creative_id": "345034544523",
+        "start_date": "2022-11-19T03:44:10Z",
+        "impressions": 18046,
+        "cost": "$165.73",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 2493,
+                    "cost": "$22.90"
+                },
+                "google_ads": {
+                    "impressions": 15553,
+                    "cost": "$142.83"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "11889306883",
+        "creative_id": "345034544523",
+        "start_date": "2022-07-12T05:53:54Z",
+        "impressions": 74932,
+        "cost": "$573.00",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 35650,
+                    "cost": "$272.61"
+                },
+                "google_ads": {
+                    "impressions": 39282,
+                    "cost": "$300.39"
+                }
+            }
+        ]
+    },
+    {
+        "campaign_id": "17678232022",
+        "creative_id": "350582555632",
+        "start_date": "2022-03-03T10:13:07Z",
+        "impressions": 45184,
+        "cost": "$962.04",
+        "platforms": [
+            {
+                "facebook": {
+                    "impressions": 1327,
+                    "cost": "$28.27"
+                },
+                "google_ads": {
+                    "impressions": 43857,
+                    "cost": "$933.77"
+                }
+            }
+        ]
+    }
+   
+]

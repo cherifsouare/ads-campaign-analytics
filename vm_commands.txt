@@ -1,0 +1,29 @@
+
+The commands below were used to set up the development environment on the virtual machine in GCP
+
+# 1. Refresh local system index to ensure we are working with the most-up-to-date package information
+sudo apt-get update
+
+# 2. Install Distutils to handle Python Package 
+sudo apt-get install python3-distutils
+
+# 3.Install python3
+sudo apt-get install python3-apt
+
+# 4. Tools to install pip
+sudo apt-get install wget
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3 get-pip.py
+
+# 5. Create and activate Virtual Environment
+python3 -m venv env --without-pip
+source env/bin/activate
+
+# 6. Install Mage
+sudo pip3 install mage-ai
+
+# 7. Install relevant Google Cloud libraries
+sudo pip3 install google-cloud-storage
+sudo pip3 install google-cloud-bigquery
+
+

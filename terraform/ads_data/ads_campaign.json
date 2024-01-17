@@ -1,0 +1,163 @@
+[
+    {
+        "campaign_id": "11861306889",
+        "status": "draft",
+        "name": "BF_2022_JPromotion_Search",
+        "country": "BF",
+        "created": "2022-04-06T06:21:12Z"
+    },
+    {
+        "campaign_id": "13405390476",
+        "status": "draft",
+        "name": "FR_2022_JPromotion_Display",
+        "country": "FR",
+        "created": "2022-12-24T00:03:25Z"
+    },
+    {
+        "campaign_id": "13456790476",
+        "status": "expired",
+        "name": "CN_2022_JPromotion_Video",
+        "country": "CN",
+        "created": "2022-02-02T19:15:26Z"
+    },
+    {
+        "campaign_id": "13405390345",
+        "status": "draft",
+        "name": "CN_2022_JBoost_Video",
+        "country": "CN",
+        "created": "2022-05-03T15:08:06Z"
+    },
+    {
+        "campaign_id": "11861306889",
+        "status": "draft",
+        "name": "EG_2022_JPromotion_Display",
+        "country": "EG",
+        "created": "2022-05-17T20:32:44Z"
+    },
+    {
+        "campaign_id": "13405367345",
+        "status": "draft",
+        "name": "JP_2022_JBoost_Search",
+        "country": "JP",
+        "created": "2022-09-17T03:41:44Z"
+    },
+    {
+        "campaign_id": "11889306883",
+        "status": "cancelled",
+        "name": "CN_2022_JPromoPlus_Search",
+        "country": "CN",
+        "created": "2022-07-08T09:17:39Z"
+    },
+    {
+        "campaign_id": "13405364567",
+        "status": "expired",
+        "name": "CN_2022_JPromoPlus_Video",
+        "country": "CN",
+        "created": "2022-09-06T05:46:56Z"
+    },
+    {
+        "campaign_id": "17626232022",
+        "status": "cancelled",
+        "name": "AR_2022_JPromoPlus_Video",
+        "country": "AR",
+        "created": "2022-07-18T23:03:02Z"
+    },
+    {
+        "campaign_id": "17678232022",
+        "status": "expired",
+        "name": "TL_2022_JPromoPlus_Video",
+        "country": "TL",
+        "created": "2022-04-17T21:27:34Z"
+    },
+    {
+        "campaign_id": "14569358865",
+        "status": "draft",
+        "name": "FR_2022_JBoost_Video",
+        "country": "FR",
+        "created": "2022-10-31T19:59:48Z"
+    },
+    {
+        "campaign_id": "13568364567",
+        "status": "draft",
+        "name": "VN_2022_JBoost_Video",
+        "country": "VN",
+        "created": "2022-10-31T16:21:04Z"
+    },
+    {
+        "campaign_id": "11889302363",
+        "status": "scheduled",
+        "name": "PK_2022_JBoost_Search",
+        "country": "PK",
+        "created": "2023-01-08T06:33:42Z"
+    },
+    {
+        "campaign_id": "13543564567",
+        "status": "expired",
+        "name": "ID_2022_JBoost_Display",
+        "country": "ID",
+        "created": "2022-05-06T12:07:28Z"
+    },
+    {
+        "campaign_id": "17643534567",
+        "status": "draft",
+        "name": "NG_2022_JPromoPlus_Display",
+        "country": "NG",
+        "created": "2022-03-22T03:06:51Z"
+    },
+    {
+        "campaign_id": "12428358869",
+        "status": "scheduled",
+        "name": "FR_2022_JPromoPlus_Search",
+        "country": "FR",
+        "created": "2022-01-30T04:53:15Z"
+    },
+    {
+        "campaign_id": "12628353769",
+        "status": "draft",
+        "name": "CN_2022_JPromoPlus_Search",
+        "country": "CN",
+        "created": "2022-07-22T00:25:50Z"
+    },
+    {
+        "campaign_id": "12286353765",
+        "status": "draft",
+        "name": "CN_2022_JBoost_Video",
+        "country": "CN",
+        "created": "2022-07-11T05:58:44Z"
+    },
+    {
+        "campaign_id": "14586353629",
+        "status": "scheduled",
+        "name": "IR_2022_JBoost_Video",
+        "country": "IR",
+        "created": "2022-06-23T04:27:30Z"
+    },
+    {
+        "campaign_id": "14586353629",
+        "status": "draft",
+        "name": "IE_2022_JBoost_Display",
+        "country": "IE",
+        "created": "2022-07-08T15:34:41Z"
+    },
+    {
+        "campaign_id": "15686563623",
+        "status": "draft",
+        "name": "CN_2022_JBoost_Video",
+        "country": "CN",
+        "created": "2022-01-13T07:13:18Z"
+    },
+    {
+        "campaign_id": "17886563568",
+        "status": "cancelled",
+        "name": "CN_2022_JBoost_Search",
+        "country": "CN",
+        "created": "2022-01-22T08:40:26Z"
+    },
+    {
+        "campaign_id": "15786463534",
+        "status": "cancelled",
+        "name": "FI_2022_JBoost_Video",
+        "country": "FI",
+        "created": "2022-06-25T14:53:56Z"
+    }
+]

@@ -1,0 +1,27 @@
+[tool.sqlfmt]
+exclude=["target/**/*", "dbt_packages/**/*"]
+line_length = 80
+
+
+[tool.sqlfluff.core]
+dialect = "bigquery"
+exclude_rules = ["CV03", "L003", "LT07", "LT08", "LT09", "RF06", "ST01", "ST05", "ST06", "CP02"]
+ignore = "templating"
+large_file_skip_byte_limit = 30000
+max_line_length = 80
+
+
+[tool.sqlfluff.rules]
+capitalisation_policy = "lower"
+extended_capitalisation_policy = "lower"
+
+[tool.sqlfluff.indentation]
+indented_joins = false
+indented_using_on = false
+template_blocks_indent = false
+
+[tool.sqlfluff.rules.convention.terminator]
+multiline_newline = true
+
+[tool.sqlfluff.rules.references.keywords]
+ignore_words = "name"
