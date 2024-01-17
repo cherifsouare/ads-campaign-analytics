@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+# Except
+!.gitignore
+!/ads_data
+!*.tf
+!terraform.tfvars
+
