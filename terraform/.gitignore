@@ -3,6 +3,7 @@
 # Except
 !.gitignore
 !/ads_data
-!/infra/*.tf
-!/infra/terraform.tfvars
+!*/a/b/c/*
+!terraform/infra/*.tf
+!terraform/infra/terraform.tfvars
 
