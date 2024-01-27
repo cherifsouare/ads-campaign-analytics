@@ -4,16 +4,17 @@ The commands below were used to set up the development environment on the virtua
 # 1. Refresh local system index to ensure we are working with the most-up-to-date package information
 sudo apt-get update
 
-# 2. Install Distutils to handle Python modules and packages
-sudo apt-get install python3-distutils
+# 2. Confirm that Python3 is already installed
+python3 --version
 
-# 3.Install python3
-sudo apt-get install python3.8
-
-# 4. Tools to install pip
+# 3. Tools to install pip from the repo for the latest version
 sudo apt-get install wget
 wget https://bootstrap.pypa.io/get-pip.py
 sudo python3 get-pip.py
+
+# 4. Create a new directory for the project
+mkdir mage-project
+cd mage-project
 
 # 5. Create and activate Virtual Environment
 python3 -m venv env --without-pip
@@ -22,7 +23,7 @@ source env/bin/activate
 # 6. Install Mage
 sudo pip3 install mage-ai
 
-# 7. Install relevant Google Cloud libraries
+# 7. Install relevant Google Cloud client libraries
 sudo pip3 install google-cloud-storage
 sudo pip3 install google-cloud-bigquery
 
