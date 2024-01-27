@@ -7,13 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v1.0.0 - 2024-01-27
 
-### What's Changed
+### Added
 
 * Add comments for mage files (https://github.com/cherifsouare/ads-campaign-analytics/pull/7)
 * Add steps in VM config GCP (https://github.com/cherifsouare/ads-campaign-analytics/pull/8)
 * Add README.md for terraform documentation (https://github.com/cherifsouare/ads-campaign-analytics/pull/9)
-
-**Full Changelog**: https://github.com/cherifsouare/ads-campaign-analytics/compare/v0.1.0...v1.0.0
 
 ## v0.1.0 - 2024-01-20
 
