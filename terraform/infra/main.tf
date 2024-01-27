@@ -1,5 +1,5 @@
 
-# 1. Create a cloud storage bucket
+# Create cloud storage bucket
 resource "google_storage_bucket" "source" {
   name          = var.bucket_name_source
   storage_class = var.storage_class
@@ -14,7 +14,7 @@ resource "google_storage_bucket_iam_member" "member" {
   member     = "allUsers"
   depends_on = [google_storage_bucket.source]
 }
-# 2. Upload data in storage bucket
+# Upload ads data in storage bucket
 resource "null_resource" "upload_folder_content" {
   depends_on = [google_storage_bucket.source, google_storage_bucket_iam_member.member]
   triggers = {
@@ -29,7 +29,7 @@ resource "null_resource" "upload_folder_content" {
   }
 }
 
-# 3.Create and configure compute_instances
+# Create and configure compute_instances
 resource "google_compute_instance" "default" {
   name         = "my-vm"
   machine_type = "n1-standard-1"
@@ -63,7 +63,7 @@ resource "google_compute_subnetwork" "custom" {
   network       = google_compute_network.custom.id
 }
 
-# 4.Create dataset in BigQuery
+# Create dataset in BigQuery
 resource "google_bigquery_dataset" "dataset" {
   dataset_id    = "ads_campaign_raw"
   project       = var.project_id

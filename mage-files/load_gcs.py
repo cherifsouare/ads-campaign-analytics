@@ -21,7 +21,7 @@ def load_from_google_cloud_storage(*args, **kwargs) -> List[List[Dict]]:
     config_path = path.join(get_repo_path(), 'io_config.yaml')
     config_profile = 'default'
     
-    # Initialize empty list to store objects and metadata that uniquely ientify an object and create dynamically downstream block
+
     object_keys = []
     metadata = []
     
@@ -30,7 +30,7 @@ def load_from_google_cloud_storage(*args, **kwargs) -> List[List[Dict]]:
 
     google_cloud_storage_loader = GoogleCloudStorage.with_config(ConfigFileLoader(config_path, config_profile))
 
-    # List all objects in the bucket
+
     objects = google_cloud_storage_loader.client.list_blobs(bucket_name)
 
     # Iterators for blob objects can only be used once so we need to store them into another list type variable
@@ -40,7 +40,7 @@ def load_from_google_cloud_storage(*args, **kwargs) -> List[List[Dict]]:
     object_keys = [{"key": i.name} for i in objects]
     metadata = [{"block_uuid": "for_" + i.name} for i in objects]
     
-    # Output is a list of 2 lists that objects keys and metadata
+    
     out = [object_keys, metadata]
 
     print(out)
