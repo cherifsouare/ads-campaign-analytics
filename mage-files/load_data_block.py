@@ -24,8 +24,7 @@ def load_from_google_cloud_storage(*args, **kwargs):
     
     bucket_name = 'my-ads-data-source'
     print(args)
-
-    # Reading the loaded data upstream from the first object in the bucket 
+ 
     object_key = args[0]['key']
 
     data = GoogleCloudStorage.with_config(ConfigFileLoader(config_path, config_profile)).load(
