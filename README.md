@@ -1,3 +1,5 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/cherifsouare/ads-campaign-analytics?style=social&color=blue)   ![GitHub forks](https://img.shields.io/github/forks/cherifsouare/ads-campaign-analytics?style=social&color=blue) 
+
 # ads-campaign-analytics
 ## Project Overview
 One of the most important aspects of keeping strategy on track for digital and marketing teams using lead generation tools like Google Ads is the ability to assess the success of their campaigns and understand how improvements can be made.
