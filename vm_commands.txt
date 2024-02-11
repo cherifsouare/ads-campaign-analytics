@@ -26,5 +26,3 @@ sudo pip3 install mage-ai
 # 7. Install relevant Google Cloud client libraries
 sudo pip3 install google-cloud-storage
 sudo pip3 install google-cloud-bigquery
-
-
