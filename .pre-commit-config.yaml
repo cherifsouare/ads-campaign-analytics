@@ -77,3 +77,4 @@ repos:
     hooks:
       - id: check-merge-conflict
       - id: no-commit-to-branch
+        args: ["--branch=main"]
