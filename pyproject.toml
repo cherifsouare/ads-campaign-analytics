@@ -1,15 +1,34 @@
+[tool.black]
+line-length = 120
+exclude = '''
+/(
+\.git
+| venv
+| \.venv
+)/
+'''
+[tool.flake8]
+max-line-length = 120
+select = ['B','B9','BLK','C','E','F','I','S','W']
+ignore = ['E203','E305','E501','W503', 'B008', 'B907', 'S404', 'S101', 'S603','F401','F841']
+exclude = '.git, dbt_packages'
+
 [tool.sqlfmt]
 exclude=["target/**/*", "dbt_packages/**/*"]
-line_length = 80
 
+
+[tool.isort]
+profile = "black"
 
 [tool.sqlfluff.core]
 dialect = "bigquery"
 exclude_rules = ["CV03", "L003", "LT07", "LT08", "LT09", "RF06", "ST01", "ST05", "ST06", "CP02"]
 ignore = "templating"
 large_file_skip_byte_limit = 30000
-max_line_length = 80
+max_line_length = 120
 
+[tool.sqlfluff.templater.jinja]
+load_macros_from_path = "campaign_analytics/macros"
 
 [tool.sqlfluff.rules]
 capitalisation_policy = "lower"

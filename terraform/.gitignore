@@ -7,4 +7,3 @@
 # Exclude all .tfvars files
 *.tfvars
 *.tfvars.json
-
