@@ -5,9 +5,9 @@
 
 ## Project Overview
 
-One of the most important aspects of keeping strategy on track for digital and marketing teams using lead generation
-tools like Google Ads is the ability to assess the success of their campaigns and understand how improvements can be
-made. The native integration between Google Ads and BigQuery via the
+Control is crucial in keeping strategy on track for digital and marketing teams using lead generation tools like Google
+Ads is the ability to assess the success of their campaigns and understand how improvements can be made. The native
+integration between Google Ads and BigQuery via the
 [BigQuery Data Transfer Service](https://cloud.google.com/bigquery/docs/google-ads-transfer) offers a pratical way to
 load and build reporting and analytics for this purpose. However, this approach has some
 [limitations](https://www.optimizesmart.com/google-ads-data-to-bigquery/#Google_data_transfer_vs_Google_Ads_API)
