@@ -4,8 +4,9 @@ No requirements.
 
 ## Providers
 
-| Name | Version | |------|---------| | <a name="provider_google"></a> [google](#provider_google) | 5.9.0 | |
-<a name="provider_null"></a> [null](#provider_null) | 3.2.2 |
+| Name | Version | | ---------------------------------------------------------- | ------- | |
+<a name="provider_google"></a> [google](#provider_google) | 5.9.0 | | <a name="provider_null"></a>
+[null](#provider_null) | 3.2.2 |
 
 ## Modules
 
@@ -13,7 +14,9 @@ No modules.
 
 ## Resources
 
-| Name | Type | |------|------| |
+| Name | Type | |
+\---------------------------------------------------------------------------------------------------------------------------------------------------
+| -------- | |
 [google_bigquery_dataset.dataset](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/bigquery_dataset)
 | resource | |
 [google_compute_instance.default](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance)
@@ -31,7 +34,9 @@ No modules.
 
 ## Inputs
 
-| Name | Description | Type | Default | Required | |------|-------------|------|---------|:--------:| |
+| Name | Description | Type | Default | Required | |
+-------------------------------------------------------------------------------------------- |
+--------------------------------------------- | -------- | ---------------- | :------: | |
 <a name="input_bucket_location"></a> [bucket_location](#input_bucket_location) | Location | `string` | `"europe-west1"`
 | no | | <a name="input_bucket_name_source"></a> [bucket_name_source](#input_bucket_name_source) | The name of the
 bucket | `string` | n/a | yes | | <a name="input_folder_path"></a> [folder_path](#input_folder_path) | Path to folder in
@@ -45,3 +50,5 @@ for rsa public key for remote connection | `string` | n/a | yes | | <a name="inp
 ## Outputs
 
 No outputs.
+
+<!-- END_TF_DOCS -->
