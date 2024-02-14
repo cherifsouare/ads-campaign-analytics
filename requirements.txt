@@ -2,6 +2,7 @@ black
 codespell
 dbt-bigquery
 flake8
+mdformat
 pre-commit>=3.3.3
 safety
 shandy-sqlfmt[jinjafmt]
