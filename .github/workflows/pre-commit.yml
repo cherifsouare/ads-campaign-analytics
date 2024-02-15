@@ -17,4 +17,4 @@ jobs:
           pip install pre-commit
       - name: Running precommit hooks
         run: |
-          SKIP=["no-commit-to-branch","terraform_docs"] pre-commit run --all-files
+          SKIP=terraform_docs pre-commit run --all-files
